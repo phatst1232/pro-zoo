@@ -1,0 +1,9 @@
+S01;White snake;1;white;0.8;false
+S02;Black snake;1;black;0.72;true
+BFLA01;Penguin 01;2;black;3.5;true
+BFLA02;Peafowl 01;2;green;6.0;true
+BFA01;pigeon 01;3;white;0.3;false
+BFA02;leagle 01;3;black;6.0;true
+FLA01;tiger 01;4;orange;80.0;true;true
+FLA02;cat 01;4;white;1.5;true;false
+12D;Con chuot;4;grey;12.5;false;false
